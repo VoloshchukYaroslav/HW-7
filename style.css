@@ -1,6 +1,6 @@
-.youtube{
+a[href^="https"] {
     color: red;
-}
-.info{
+  }
+ul + p {
     font-size: 24px;
-}
+  }
